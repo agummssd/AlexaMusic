@@ -1,14 +1,14 @@
 {
     "name": "Alexa Music",
     "description": "Deploy Alexa music on railwey make sure to star the projecte.",
-    "logo": "https://telegra.ph/file/ba967503682a55beaedd3.png",
+    "logo": "https://telegra.ph//file/d17dcf2e9190cbd8deda2.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Alexa",
-    "alexamusic",
-    "alexamusicbot",
+    "Agumganteng",
+    "agummusic",
+    "agummusicbot",
     "pyrogram"
     ],
     "stack": "container",
