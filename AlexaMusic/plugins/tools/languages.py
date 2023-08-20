@@ -2,11 +2,11 @@
 # Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Yukki
+# Kanged By © @nas0211
+# Rocks © @Ox4gum
+# Owner Nasya
+# 
+# 
 
 
 from pykeyboard import InlineKeyboard
@@ -26,8 +26,8 @@ def lanuages_keyboard(_):
     keyboard = InlineKeyboard(row_width=2)
     keyboard.row(
         InlineKeyboardButton(
-            text="🇦🇺 ᴇɴɢʟɪsʜ 🇦🇺",
-            callback_data=f"languages:en",
+            text="🇮🇩 Indonesia 🇮🇩",
+            callback_data=f"languages:ind",
         ),
         InlineKeyboardButton(
             text="🇮🇳 हिन्दी 🇮🇳",
